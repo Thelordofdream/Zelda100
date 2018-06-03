@@ -4,6 +4,14 @@
 
 After playing the great video game **The Legend of Zelda: Breath of the Wild** for hundreds of hours, my friends and me are deeply attached to the legendary world of **Hyrule**. So we decided to dig out 100 interesting things in this game together, and share our findings with players around the world. At last, thank Nintendo for bringing us this master piece. 
 
+## 0. 游戏的主角不是塞尔达，是林克！
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/korok_z1.jpg />
+</div>
+
+玩《塞尔达传说：旷野之息》最大的惊喜，就是——这游戏的主角竟然不叫塞尔达，叫林克！是的，林克才是系列作品的主角，而塞尔达是海拉鲁王国公主的名字，也是林克在每一部作品中需要拯救的女孩，所以下次不要叫错了哦。
+
 ## 1. 复苏神庙冬眠床上的“呀哈哈”
 
 <div align = center>
@@ -36,6 +44,24 @@ After playing the great video game **The Legend of Zelda: Breath of the Wild** f
 </div>
 
 弹簧锤，是除了克洛格的蒲扇以外、另一个攻击力只有1的武器。它只能在怪物商店中购买，是怪物商人吉尔顿特制的奇妙锤子，这个锤子单纯是用来搞笑的。每当玩家用它击中物品时，物品就会被弹飞；但如果用它攻击怪物，那么除了耐久度很高以外，它只能挠痒痒。
+
+## 5. 在三叉树上掏鸟窝
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
+</div>
+
+玩家如果偶然爬上一些有三个以上分叉的大树，就会打开异世界的大门——原来海拉鲁的树上是有鸟窝的！或许，很多玩家第一次把鸟窝里的禽蛋洗劫一空时，心里还有一阵童年掏鸟窝的窃喜。偷多了鸟蛋，玩家也会发现其实没有鸟会真的回巢，所以可以放心大胆地搜刮。
+
+## 6. 在悬崖边上掏鸟窝
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
+</div>
+
+除了树上有鸟窝，海边的悬崖上也会有一些海鸟筑的鸟巢，可以供玩家放心大胆地搜刮。虽然悬崖上海鸟的禽蛋和树上的禽蛋并没有分别，但是我第一次看到时还是觉得有点萌，然后默默地把鸟窝搜刮完了。
+
+## 7. 在村子里杀鸡取卵
 
 
 
