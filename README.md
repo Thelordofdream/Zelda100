@@ -7,7 +7,7 @@ After playing the great video game **The Legend of Zelda: Breath of the Wild** f
 ## 0. 游戏的主角不是塞尔达，是林克！
 
 <div align = center>
-<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/korok_z1.jpg />
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
 </div>
 
 玩《塞尔达传说：旷野之息》最大的惊喜，就是——这游戏的主角竟然不叫塞尔达，叫林克！是的，林克才是系列作品的主角，而塞尔达是海拉鲁王国公主的名字，也是林克在每一部作品中需要拯救的女孩，所以下次不要叫错了哦。
@@ -59,9 +59,39 @@ After playing the great video game **The Legend of Zelda: Breath of the Wild** f
 <img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
 </div>
 
-除了树上有鸟窝，海边的悬崖上也会有一些海鸟筑的鸟巢，可以供玩家放心大胆地搜刮。虽然悬崖上海鸟的禽蛋和树上的禽蛋并没有分别，但是我第一次看到时还是觉得有点萌，然后默默地把鸟窝搜刮完了。
+除了树上有鸟窝，海边的悬崖上也会有一些海鸟筑的鸟巢，可以供玩家放心大胆地搜刮，体验从未有过的掏鸟窝经历。虽然悬崖上的禽蛋和树上的禽蛋并没有分别，但我第一次看到时还是觉得有点惊喜，顺便把鸟窝默默地搜刮完了。
 
 ## 7. 在村子里杀鸡取卵
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
+</div>
+
+除了掏鸟窝这种文明的搜刮禽蛋的方式，玩家还可以在某些村子里来杀鸡取卵。当玩家攻击“鸡神”的时候，“鸡神”会吓得大叫并有几率被吓到生一个禽蛋出来。每位“鸡神”每次最多只有一个禽蛋，请玩家不要过度搜刮，不然“鸡神”教你做人。
+
+## 8. 战斗力爆表的“鸡神”
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
+</div>
+
+“鸡神”其实是杀不死的，如果玩家惹怒了“鸡神”，就会被教做人。“鸡神”的设定是《塞尔达传说》系列作品的一贯作风，
+
+## 9. 驿站里卖萌的金毛犬
+
+<div align = center>
+<img width= 600 src = https://raw.githubusercontent.com/Thelordofdream/Zelda100/master/photos/.jpg />
+</div>
+
+## 10. 驿站顶部的马头
+
+每一个驿站都是蒙古包风格的，顶部都会有一个木结构的马头，而这个马头的形象其实是游戏中带面具的马神“马泷”。
+
+## 11. 极其抗冻的独角仙商人特里
+
+海拉鲁世界唯一的真男人，其实并不是林克，而是雪原驿站的独角仙商人特里。在包括林克在内的所有人都必须穿防寒衣服时，特里依然穿着夏天的无臂牛仔衬衣，虽然被冻得瑟瑟发抖。当玩家举起相机想和特里一起自拍时，特里还会强行挺直腰板，脸上笑嘻嘻，心里mmp。
+
+## 
 
 
 
